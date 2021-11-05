@@ -32,7 +32,7 @@ Using the discord bot you can retrieve and view these logs in real time as well 
 ## Setup 
 Because this needs  to be run on the public internet, you can try changing to port 8080, adding a lower privilege user an running from that account. By default this is setup to run to grab headers and requests of HTTP traffic on port 80 by default. 
 
-Create a `.env` file in the `/HomeAlone/code/` Directory. This is where you should put:
+Create a `.env` file in the `/WatchTower/code/` Directory. This is where you should put:
 ```
 HONEY=IP_ADDRESS_OF_HONEY_POT
 HOSTN=HOST_NAME_OF_HONEY_POT_USER
